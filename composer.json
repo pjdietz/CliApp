@@ -1,0 +1,6 @@
+{
+    "name":"pjdietz/cliapp",
+    "autoload": {
+        "psr-0": { "pjdietz\\CliApp": "src/" }
+    }
+}
